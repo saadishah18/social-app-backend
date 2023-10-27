@@ -1,0 +1,3322 @@
+{
+    "2000": {
+        "Acura": {
+            "Integra": ["Integra"]
+        },
+        "AM General": {
+            "Hummer": ["Hummer"]
+        },
+        "Audi": {
+            "A4": ["A4"]
+        },
+        "BMW": {
+            "3 Series": ["3 Series"]
+        },
+        "Buick": {
+            "Century": ["Century"]
+        },
+        "Cadillac": {
+            "Catera": ["Catera"]
+        },
+        "Chevrolet": {
+            "Astro": ["Astro"]
+        },
+        "Chrysler": {
+            "300M": ["300M"]
+        },
+        "Daewoo": {
+            "Lanos": ["Lanos"]
+        },
+        "Dodge": {
+            "Avenger": ["Avenger"]
+        },
+        "Ford": {
+            "Contour": ["Contour"]
+        },
+        "GMC": {
+            "Envoy": ["Envoy"]
+        },
+        "Honda": {
+            "Accord": ["Accord"]
+        },
+        "Hyundai": {
+            "Accent": ["Accent"]
+        },
+        "INFINITI": {
+            "G": ["G"]
+        },
+        "Isuzu": {
+            "Amigo": ["Amigo"]
+        },
+        "Jaguar": {
+            "S-Type": ["S-Type"]
+        },
+        "Jeep": {
+            "Cherokee": ["Cherokee"]
+        },
+        "Kia": {
+            "Sephia": ["Sephia"]
+        },
+        "Land Rover": {
+            "Discovery": ["Discovery"]
+        },
+        "Lexus": {
+            "ES": ["ES"]
+        },
+        "Lincoln": {
+            "Continental": ["Continental"]
+        },
+        "Mazda": {
+            "626": ["626"]
+        },
+        "Mercedes-Benz": {
+            "C-Class": ["C-Class"]
+        },
+        "Mercury": {
+            "Cougar": ["Cougar"]
+        },
+        "Mitsubishi": {
+            "Diamante": ["Diamante"]
+        },
+        "Nissan": {
+            "Altima": ["Altima"]
+        },
+        "Oldsmobile": {
+            "Alero": ["Alero"]
+        },
+        "Plymouth": {
+            "Breeze": ["Breeze"]
+        },
+        "Pontiac": {
+            "Bonneville": ["Bonneville"]
+        },
+        "Porsche": {
+            "911": ["911"]
+        },
+        "Saab": {
+            "03-Sep": ["03-Sep"]
+        },
+        "Saturn": {
+            "L-Series": ["L-Series"]
+        },
+        "Subaru": {
+            "Forester": ["Forester"]
+        },
+        "Suzuki": {
+            "Esteem": ["Esteem"]
+        },
+        "Toyota": {
+            "4Runner": ["4Runner"]
+        },
+        "Volkswagen": {
+            "Cabrio": ["Cabrio"]
+        },
+        "Volvo": {
+            "C70": ["C70"]
+        }
+    },
+    "2001": {
+        "Acura": {
+            "CL": ["CL"]
+        },
+        "Aston Martin": {
+            "DB7": ["DB7"]
+        },
+        "Audi": {
+            "A4": ["A4"]
+        },
+        "Bentley": {
+            "Arnage": ["Arnage"]
+        },
+        "BMW": {
+            "3 Series": ["3 Series"]
+        },
+        "Buick": {
+            "Century": ["Century"]
+        },
+        "Cadillac": {
+            "Catera": ["Catera"]
+        },
+        "Chevrolet": {
+            "Astro": ["Astro"]
+        },
+        "Chrysler": {
+            "300M": ["300M"]
+        },
+        "Daewoo": {
+            "Lanos": ["Lanos"]
+        },
+        "Dodge": {
+            "Caravan": ["Caravan"]
+        },
+        "Ferrari": {
+            "360": ["360"]
+        },
+        "Ford": {
+            "Crown Victoria": ["Crown Victoria"]
+        },
+        "GMC": {
+            "Jimmy": ["Jimmy"]
+        },
+        "Honda": {
+            "Accord": ["Accord"]
+        },
+        "HUMMER": {
+            "H1": ["H1"]
+        },
+        "Hyundai": {
+            "Accent": ["Accent"]
+        },
+        "INFINITI": {
+            "G": ["G"]
+        },
+        "Isuzu": {
+            "Rodeo": ["Rodeo"]
+        },
+        "Jaguar": {
+            "S-Type": ["S-Type"]
+        },
+        "Jeep": {
+            "Cherokee": ["Cherokee"]
+        },
+        "Kia": {
+            "Optima": ["Optima"]
+        },
+        "Lamborghini": {
+            "Diablo": ["Diablo"]
+        },
+        "Land Rover": {
+            "Discovery": ["Discovery"]
+        },
+        "Lexus": {
+            "ES": ["ES"]
+        },
+        "Lincoln": {
+            "Continental": ["Continental"]
+        },
+        "Lotus": {
+            "Esprit": ["Esprit"]
+        },
+        "Mazda": {
+            "626": ["626"]
+        },
+        "Mercedes-Benz": {
+            "C-Class": ["C-Class"]
+        },
+        "Mercury": {
+            "Cougar": ["Cougar"]
+        },
+        "Mitsubishi": {
+            "Diamante": ["Diamante"]
+        },
+        "Nissan": {
+            "Altima": ["Altima"]
+        },
+        "Oldsmobile": {
+            "Alero": ["Alero"]
+        },
+        "Plymouth": {
+            "Neon": ["Neon"]
+        },
+        "Pontiac": {
+            "Aztek": ["Aztek"]
+        },
+        "Porsche": {
+            "911": ["911"]
+        },
+        "Rolls-Royce": {
+            "Corniche": ["Corniche"]
+        },
+        "Saab": {
+            "03-Sep": ["03-Sep"]
+        },
+        "Saturn": {
+            "L-Series": ["L-Series"]
+        },
+        "Subaru": {
+            "Forester": ["Forester"]
+        },
+        "Suzuki": {
+            "Esteem": ["Esteem"]
+        },
+        "Toyota": {
+            "4Runner": ["4Runner"]
+        },
+        "Volkswagen": {
+            "Cabrio": ["Cabrio"]
+        },
+        "Volvo": {
+            "C70": ["C70"]
+        }
+    },
+    "2002": {
+        "Acura": {
+            "CL": ["CL"]
+        },
+        "Aston Martin": {
+            "DB7": ["DB7"]
+        },
+        "Audi": {
+            "A4": ["A4"]
+        },
+        "Bentley": {
+            "Arnage": ["Arnage"]
+        },
+        "BMW": {
+            "3 Series": ["3 Series"]
+        },
+        "Buick": {
+            "Century": ["Century"]
+        },
+        "Cadillac": {
+            "DeVille": ["DeVille"]
+        },
+        "Chevrolet": {
+            "Astro": ["Astro"]
+        },
+        "Chrysler": {
+            "300M": ["300M"]
+        },
+        "Daewoo": {
+            "Lanos": ["Lanos"]
+        },
+        "Dodge": {
+            "Caravan": ["Caravan"]
+        },
+        "Ferrari": {
+            "360": ["360"]
+        },
+        "Ford": {
+            "Crown Victoria": ["Crown Victoria"]
+        },
+        "GMC": {
+            "Envoy": ["Envoy"]
+        },
+        "Honda": {
+            "Accord": ["Accord"]
+        },
+        "HUMMER": {
+            "H1": ["H1"]
+        },
+        "Hyundai": {
+            "Accent": ["Accent"]
+        },
+        "INFINITI": {
+            "G": ["G"]
+        },
+        "Isuzu": {
+            "Axiom": ["Axiom"]
+        },
+        "Jaguar": {
+            "S-Type": ["S-Type"]
+        },
+        "Jeep": {
+            "Grand Cherokee": ["Grand Cherokee"]
+        },
+        "Kia": {
+            "Optima": ["Optima"]
+        },
+        "Lamborghini": {
+            "Murcielago": ["Murcielago"]
+        },
+        "Land Rover": {
+            "Discovery": ["Discovery"]
+        },
+        "Lexus": {
+            "ES": ["ES"]
+        },
+        "Lincoln": {
+            "Blackwood": ["Blackwood"]
+        },
+        "Lotus": {
+            "Esprit": ["Esprit"]
+        },
+        "Maserati": {
+            "Coupe": ["Coupe"]
+        },
+        "Mazda": {
+            "626": ["626"]
+        },
+        "Mercedes-Benz": {
+            "C-Class": ["C-Class"]
+        },
+        "Mercury": {
+            "Cougar": ["Cougar"]
+        },
+        "MINI": {
+            "Cooper": ["Cooper"]
+        },
+        "Mitsubishi": {
+            "Diamante": ["Diamante"]
+        },
+        "Nissan": {
+            "Altima": ["Altima"]
+        },
+        "Oldsmobile": {
+            "Alero": ["Alero"]
+        },
+        "Panoz": {
+            "Esperante": ["Esperante"]
+        },
+        "Pontiac": {
+            "Aztek": ["Aztek"]
+        },
+        "Porsche": {
+            "911": ["911"]
+        },
+        "Rolls-Royce": {
+            "Corniche": ["Corniche"]
+        },
+        "Saab": {
+            "03-Sep": ["03-Sep"]
+        },
+        "Saturn": {
+            "L-Series": ["L-Series"]
+        },
+        "Subaru": {
+            "Forester": ["Forester"]
+        },
+        "Suzuki": {
+            "Aerio": ["Aerio"]
+        },
+        "Toyota": {
+            "4Runner": ["4Runner"]
+        },
+        "Volkswagen": {
+            "Cabrio": ["Cabrio"]
+        },
+        "Volvo": {
+            "C70": ["C70"]
+        }
+    },
+    "2003": {
+        "Acura": {
+            "CL": ["CL"]
+        },
+        "Aston Martin": {
+            "DB7": ["DB7"]
+        },
+        "Audi": {
+            "A4": ["A4"]
+        },
+        "Bentley": {
+            "Arnage": ["Arnage"]
+        },
+        "BMW": {
+            "3 Series": ["3 Series"]
+        },
+        "Buick": {
+            "Century": ["Century"]
+        },
+        "Cadillac": {
+            "CTS": ["CTS"]
+        },
+        "Chevrolet": {
+            "Astro": ["Astro"]
+        },
+        "Chrysler": {
+            "300M": ["300M"]
+        },
+        "Dodge": {
+            "Caravan": ["Caravan"]
+        },
+        "Ferrari": {
+            "360": ["360"]
+        },
+        "Ford": {
+            "Crown Victoria": ["Crown Victoria"]
+        },
+        "GMC": {
+            "Envoy": ["Envoy"]
+        },
+        "Honda": {
+            "Accord": ["Accord"]
+        },
+        "HUMMER": {
+            "H1": ["H1"]
+        },
+        "Hyundai": {
+            "Accent": ["Accent"]
+        },
+        "INFINITI": {
+            "FX": ["FX"]
+        },
+        "Isuzu": {
+            "Ascender": ["Ascender"]
+        },
+        "Jaguar": {
+            "S-Type": ["S-Type"]
+        },
+        "Jeep": {
+            "Grand Cherokee": ["Grand Cherokee"]
+        },
+        "Kia": {
+            "Optima": ["Optima"]
+        },
+        "Lamborghini": {
+            "Murcielago": ["Murcielago"]
+        },
+        "Land Rover": {
+            "Discovery": ["Discovery"]
+        },
+        "Lexus": {
+            "ES": ["ES"]
+        },
+        "Lincoln": {
+            "Aviator": ["Aviator"]
+        },
+        "Lotus": {
+            "Esprit": ["Esprit"]
+        },
+        "Maserati": {
+            "Coupe": ["Coupe"]
+        },
+        "Mazda": {
+            "6": ["6"]
+        },
+        "Mercedes-Benz": {
+            "C-Class": ["C-Class"]
+        },
+        "Mercury": {
+            "Grand Marquis": ["Grand Marquis"]
+        },
+        "MINI": {
+            "Cooper": ["Cooper"]
+        },
+        "Mitsubishi": {
+            "Diamante": ["Diamante"]
+        },
+        "Nissan": {
+            "350Z": ["350Z"]
+        },
+        "Oldsmobile": {
+            "Alero": ["Alero"]
+        },
+        "Panoz": {
+            "Esperante": ["Esperante"]
+        },
+        "Pontiac": {
+            "Aztek": ["Aztek"]
+        },
+        "Porsche": {
+            "911": ["911"]
+        },
+        "Saab": {
+            "03-Sep": ["03-Sep"]
+        },
+        "Saturn": {
+            "ION": ["ION"]
+        },
+        "Subaru": {
+            "Baja": ["Baja"]
+        },
+        "Suzuki": {
+            "Aerio": ["Aerio"]
+        },
+        "Toyota": {
+            "4Runner": ["4Runner"]
+        },
+        "Volkswagen": {
+            "EuroVan": ["EuroVan"]
+        },
+        "Volvo": {
+            "C70": ["C70"]
+        }
+    },
+    "2004": {
+        "Acura": {
+            "MDX": ["MDX"]
+        },
+        "Aston Martin": {
+            "V12 Vanquish": ["V12 Vanquish"]
+        },
+        "Audi": {
+            "A4": ["A4"]
+        },
+        "Bentley": {
+            "Arnage": ["Arnage"]
+        },
+        "BMW": {
+            "3 Series": ["3 Series"]
+        },
+        "Buick": {
+            "Century": ["Century"]
+        },
+        "Cadillac": {
+            "CTS": ["CTS"]
+        },
+        "Chevrolet": {
+            "Astro": ["Astro"]
+        },
+        "Chrysler": {
+            "300M": ["300M"]
+        },
+        "Dodge": {
+            "Caravan": ["Caravan"]
+        },
+        "Ferrari": {
+            "360": ["360"]
+        },
+        "Ford": {
+            "Crown Victoria": ["Crown Victoria"]
+        },
+        "GMC": {
+            "Canyon": ["Canyon"]
+        },
+        "Honda": {
+            "Accord": ["Accord"]
+        },
+        "HUMMER": {
+            "H1": ["H1"]
+        },
+        "Hyundai": {
+            "Accent": ["Accent"]
+        },
+        "INFINITI": {
+            "FX": ["FX"]
+        },
+        "Isuzu": {
+            "Ascender": ["Ascender"]
+        },
+        "Jaguar": {
+            "S-Type": ["S-Type"]
+        },
+        "Jeep": {
+            "Grand Cherokee": ["Grand Cherokee"]
+        },
+        "Kia": {
+            "Amanti": ["Amanti"]
+        },
+        "Lamborghini": {
+            "Gallardo": ["Gallardo"]
+        },
+        "Land Rover": {
+            "Discovery": ["Discovery"]
+        },
+        "Lexus": {
+            "ES": ["ES"]
+        },
+        "Lincoln": {
+            "Aviator": ["Aviator"]
+        },
+        "Lotus": {
+            "Esprit": ["Esprit"]
+        },
+        "Maserati": {
+            "Coupe": ["Coupe"]
+        },
+        "Maybach": {
+            "57": ["57"]
+        },
+        "Mazda": {
+            "3": ["3"]
+        },
+        "Mercedes-Benz": {
+            "C-Class": ["C-Class"]
+        },
+        "Mercury": {
+            "Grand Marquis": ["Grand Marquis"]
+        },
+        "MINI": {
+            "Cooper": ["Cooper"]
+        },
+        "Mitsubishi": {
+            "Diamante": ["Diamante"]
+        },
+        "Nissan": {
+            "350Z": ["350Z"]
+        },
+        "Oldsmobile": {
+            "Alero": ["Alero"]
+        },
+        "Panoz": {
+            "Esperante": ["Esperante"]
+        },
+        "Pontiac": {
+            "Aztek": ["Aztek"]
+        },
+        "Porsche": {
+            "911": ["911"]
+        },
+        "Rolls-Royce": {
+            "Phantom": ["Phantom"]
+        },
+        "Saab": {
+            "03-Sep": ["03-Sep"]
+        },
+        "Saturn": {
+            "ION": ["ION"]
+        },
+        "Scion": {
+            "xA": ["xA"]
+        },
+        "Subaru": {
+            "Baja": ["Baja"]
+        },
+        "Suzuki": {
+            "Aerio": ["Aerio"]
+        },
+        "Toyota": {
+            "4Runner": ["4Runner"]
+        },
+        "Volkswagen": {
+            "Golf": ["Golf"]
+        },
+        "Volvo": {
+            "C70": ["C70"]
+        }
+    },
+    "2005": {
+        "Acura": {
+            "MDX": ["MDX"]
+        },
+        "Aston Martin": {
+            "DB9": ["DB9"]
+        },
+        "Audi": {
+            "A4": ["A4"]
+        },
+        "Bentley": {
+            "Arnage": ["Arnage"]
+        },
+        "BMW": {
+            "3 Series": ["3 Series"]
+        },
+        "Buick": {
+            "Century": ["Century"]
+        },
+        "Cadillac": {
+            "CTS": ["CTS"]
+        },
+        "Chevrolet": {
+            "Astro": ["Astro"]
+        },
+        "Chrysler": {
+            "300": ["300"]
+        },
+        "Dodge": {
+            "Caravan": ["Caravan"]
+        },
+        "Ferrari": {
+            "612 Scaglietti": ["612 Scaglietti"]
+        },
+        "Ford": {
+            "Crown Victoria": ["Crown Victoria"]
+        },
+        "GMC": {
+            "Canyon": ["Canyon"]
+        },
+        "Honda": {
+            "Accord": ["Accord"]
+        },
+        "HUMMER": {
+            "H2": ["H2"]
+        },
+        "Hyundai": {
+            "Accent": ["Accent"]
+        },
+        "INFINITI": {
+            "FX": ["FX"]
+        },
+        "Isuzu": {
+            "Ascender": ["Ascender"]
+        },
+        "Jaguar": {
+            "S-Type": ["S-Type"]
+        },
+        "Jeep": {
+            "Grand Cherokee": ["Grand Cherokee"]
+        },
+        "Kia": {
+            "Amanti": ["Amanti"]
+        },
+        "Lamborghini": {
+            "Gallardo": ["Gallardo"]
+        },
+        "Land Rover": {
+            "Freelander": ["Freelander"]
+        },
+        "Lexus": {
+            "ES": ["ES"]
+        },
+        "Lincoln": {
+            "Aviator": ["Aviator"]
+        },
+        "Lotus": {
+            "Elise": ["Elise"]
+        },
+        "Maserati": {
+            "Coupe": ["Coupe"]
+        },
+        "Maybach": {
+            "57": ["57"]
+        },
+        "Mazda": {
+            "3": ["3"]
+        },
+        "Mercedes-Benz": {
+            "C-Class": ["C-Class"]
+        },
+        "Mercury": {
+            "Grand Marquis": ["Grand Marquis"]
+        },
+        "MINI": {
+            "Cooper": ["Cooper"]
+        },
+        "Mitsubishi": {
+            "Eclipse": ["Eclipse"]
+        },
+        "Nissan": {
+            "350Z": ["350Z"]
+        },
+        "Panoz": {
+            "Esperante": ["Esperante"]
+        },
+        "Pontiac": {
+            "Aztek": ["Aztek"]
+        },
+        "Porsche": {
+            "911": ["911"]
+        },
+        "Rolls-Royce": {
+            "Phantom": ["Phantom"]
+        },
+        "Saab": {
+            "9-2X": ["9-2X"]
+        },
+        "Saturn": {
+            "ION": ["ION"]
+        },
+        "Scion": {
+            "tC": ["tC"]
+        },
+        "Subaru": {
+            "Baja": ["Baja"]
+        },
+        "Suzuki": {
+            "Aerio": ["Aerio"]
+        },
+        "Toyota": {
+            "4Runner": ["4Runner"]
+        },
+        "Volkswagen": {
+            "Golf": ["Golf"]
+        },
+        "Volvo": {
+            "S40": ["S40"]
+        }
+    },
+    "2006": {
+        "Acura": {
+            "MDX": ["MDX"]
+        },
+        "Aston Martin": {
+            "DB9": ["DB9"]
+        },
+        "Audi": {
+            "A3": ["A3"]
+        },
+        "Bentley": {
+            "Arnage": ["Arnage"]
+        },
+        "BMW": {
+            "3 Series": ["3 Series"]
+        },
+        "Bugatti": {
+            "Veyron 16.4": ["Veyron 16.4"]
+        },
+        "Buick": {
+            "LaCrosse": ["LaCrosse"]
+        },
+        "Cadillac": {
+            "CTS": ["CTS"]
+        },
+        "Chevrolet": {
+            "Avalanche": ["Avalanche"]
+        },
+        "Chrysler": {
+            "300": ["300"]
+        },
+        "Dodge": {
+            "Caravan": ["Caravan"]
+        },
+        "Ferrari": {
+            "612 Scaglietti": ["612 Scaglietti"]
+        },
+        "Ford": {
+            "Crown Victoria": ["Crown Victoria"]
+        },
+        "GMC": {
+            "Canyon": ["Canyon"]
+        },
+        "Honda": {
+            "Accord": ["Accord"]
+        },
+        "HUMMER": {
+            "H1 Alpha": ["H1 Alpha"]
+        },
+        "Hyundai": {
+            "Accent": ["Accent"]
+        },
+        "INFINITI": {
+            "FX": ["FX"]
+        },
+        "Isuzu": {
+            "Ascender": ["Ascender"]
+        },
+        "Jaguar": {
+            "S-Type": ["S-Type"]
+        },
+        "Jeep": {
+            "Commander": ["Commander"]
+        },
+        "Kia": {
+            "Amanti": ["Amanti"]
+        },
+        "Lamborghini": {
+            "Gallardo": ["Gallardo"]
+        },
+        "Land Rover": {
+            "LR3": ["LR3"]
+        },
+        "Lexus": {
+            "ES": ["ES"]
+        },
+        "Lincoln": {
+            "LS": ["LS"]
+        },
+        "Lotus": {
+            "Elise": ["Elise"]
+        },
+        "Maserati": {
+            "Coupe": ["Coupe"]
+        },
+        "Maybach": {
+            "57": ["57"]
+        },
+        "Mazda": {
+            "3": ["3"]
+        },
+        "Mercedes-Benz": {
+            "C-Class": ["C-Class"]
+        },
+        "Mercury": {
+            "Grand Marquis": ["Grand Marquis"]
+        },
+        "MINI": {
+            "Cooper": ["Cooper"]
+        },
+        "Mitsubishi": {
+            "Eclipse": ["Eclipse"]
+        },
+        "Nissan": {
+            "350Z": ["350Z"]
+        },
+        "Panoz": {
+            "Esperante": ["Esperante"]
+        },
+        "Pontiac": {
+            "G6": ["G6"]
+        },
+        "Porsche": {
+            "911": ["911"]
+        },
+        "Rolls-Royce": {
+            "Phantom": ["Phantom"]
+        },
+        "Saab": {
+            "9-2X": ["9-2X"]
+        },
+        "Saturn": {
+            "ION": ["ION"]
+        },
+        "Scion": {
+            "tC": ["tC"]
+        },
+        "Subaru": {
+            "B9 Tribeca": ["B9 Tribeca"]
+        },
+        "Suzuki": {
+            "Aerio": ["Aerio"]
+        },
+        "Toyota": {
+            "4Runner": ["4Runner"]
+        },
+        "Volkswagen": {
+            "Golf": ["Golf"]
+        },
+        "Volvo": {
+            "C70": ["C70"]
+        }
+    },
+    "2007": {
+        "Acura": {
+            "MDX": ["MDX"]
+        },
+        "Aston Martin": {
+            "DB9": ["DB9"]
+        },
+        "Audi": {
+            "A3": ["A3"]
+        },
+        "Bentley": {
+            "Arnage": ["Arnage"]
+        },
+        "BMW": {
+            "3 Series": ["3 Series"]
+        },
+        "Bugatti": {
+            "Veyron 16.4": ["Veyron 16.4"]
+        },
+        "Buick": {
+            "LaCrosse": ["LaCrosse"]
+        },
+        "Cadillac": {
+            "CTS": ["CTS"]
+        },
+        "Chevrolet": {
+            "Avalanche": ["Avalanche"]
+        },
+        "Chrysler": {
+            "300": ["300"]
+        },
+        "Dodge": {
+            "Caliber": ["Caliber"]
+        },
+        "Ferrari": {
+            "599": ["599"]
+        },
+        "Ford": {
+            "Crown Victoria": ["Crown Victoria"]
+        },
+        "GMC": {
+            "Acadia": ["Acadia"]
+        },
+        "Honda": {
+            "Accord": ["Accord"]
+        },
+        "HUMMER": {
+            "H2": ["H2"]
+        },
+        "Hyundai": {
+            "Accent": ["Accent"]
+        },
+        "INFINITI": {
+            "FX": ["FX"]
+        },
+        "Isuzu": {
+            "Ascender": ["Ascender"]
+        },
+        "Jaguar": {
+            "S-Type": ["S-Type"]
+        },
+        "Jeep": {
+            "Commander": ["Commander"]
+        },
+        "Kia": {
+            "Amanti": ["Amanti"]
+        },
+        "Lamborghini": {
+            "Gallardo": ["Gallardo"]
+        },
+        "Land Rover": {
+            "LR3": ["LR3"]
+        },
+        "Lexus": {
+            "ES": ["ES"]
+        },
+        "Lincoln": {
+            "Mark LT": ["Mark LT"]
+        },
+        "Lotus": {
+            "Elise": ["Elise"]
+        },
+        "Maserati": {
+            "Quattroporte": ["Quattroporte"]
+        },
+        "Maybach": {
+            "57": ["57"]
+        },
+        "Mazda": {
+            "3": ["3"]
+        },
+        "Mercedes-Benz": {
+            "C-Class": ["C-Class"]
+        },
+        "Mercury": {
+            "Grand Marquis": ["Grand Marquis"]
+        },
+        "MINI": {
+            "Cooper": ["Cooper"]
+        },
+        "Mitsubishi": {
+            "Eclipse": ["Eclipse"]
+        },
+        "Nissan": {
+            "350Z": ["350Z"]
+        },
+        "Pontiac": {
+            "G5": ["G5"]
+        },
+        "Porsche": {
+            "911": ["911"]
+        },
+        "Rolls-Royce": {
+            "Phantom": ["Phantom"]
+        },
+        "Saab": {
+            "03-Sep": ["03-Sep"]
+        },
+        "Saturn": {
+            "Aura": ["Aura"]
+        },
+        "Scion": {
+            "tC": ["tC"]
+        },
+        "Subaru": {
+            "B9 Tribeca": ["B9 Tribeca"]
+        },
+        "Suzuki": {
+            "Aerio": ["Aerio"]
+        },
+        "Toyota": {
+            "4Runner": ["4Runner"]
+        },
+        "Volkswagen": {
+            "Eos": ["Eos"]
+        },
+        "Volvo": {
+            "C70": ["C70"]
+        }
+    },
+    "2008": {
+        "Acura": {
+            "MDX": ["MDX"]
+        },
+        "Aston Martin": {
+            "DB9": ["DB9"]
+        },
+        "Audi": {
+            "A3": ["A3"]
+        },
+        "Bentley": {
+            "Arnage": ["Arnage"]
+        },
+        "BMW": {
+            "1 Series": ["1 Series"]
+        },
+        "Bugatti": {
+            "Veyron 16.4": ["Veyron 16.4"]
+        },
+        "Buick": {
+            "Enclave": ["Enclave"]
+        },
+        "Cadillac": {
+            "CTS": ["CTS"]
+        },
+        "Chevrolet": {
+            "Avalanche": ["Avalanche"]
+        },
+        "Chrysler": {
+            "300": ["300"]
+        },
+        "Dodge": {
+            "Avenger": ["Avenger"]
+        },
+        "Ferrari": {
+            "430 Scuderia": ["430 Scuderia"]
+        },
+        "Ford": {
+            "Crown Victoria": ["Crown Victoria"]
+        },
+        "GMC": {
+            "Acadia": ["Acadia"]
+        },
+        "Honda": {
+            "Accord": ["Accord"]
+        },
+        "HUMMER": {
+            "H2": ["H2"]
+        },
+        "Hyundai": {
+            "Accent": ["Accent"]
+        },
+        "INFINITI": {
+            "EX": ["EX"]
+        },
+        "Isuzu": {
+            "Ascender": ["Ascender"]
+        },
+        "Jaguar": {
+            "S-Type": ["S-Type"]
+        },
+        "Jeep": {
+            "Commander": ["Commander"]
+        },
+        "Kia": {
+            "Amanti": ["Amanti"]
+        },
+        "Lamborghini": {
+            "Gallardo": ["Gallardo"]
+        },
+        "Land Rover": {
+            "LR2": ["LR2"]
+        },
+        "Lexus": {
+            "ES": ["ES"]
+        },
+        "Lincoln": {
+            "Mark LT": ["Mark LT"]
+        },
+        "Lotus": {
+            "Elise": ["Elise"]
+        },
+        "Maserati": {
+            "GranTurismo": ["GranTurismo"]
+        },
+        "Maybach": {
+            "57": ["57"]
+        },
+        "Mazda": {
+            "3": ["3"]
+        },
+        "Mercedes-Benz": {
+            "C-Class": ["C-Class"]
+        },
+        "Mercury": {
+            "Grand Marquis": ["Grand Marquis"]
+        },
+        "MINI": {
+            "Cooper": ["Cooper"]
+        },
+        "Mitsubishi": {
+            "Eclipse": ["Eclipse"]
+        },
+        "Nissan": {
+            "350Z": ["350Z"]
+        },
+        "Pontiac": {
+            "G5": ["G5"]
+        },
+        "Porsche": {
+            "911": ["911"]
+        },
+        "Rolls-Royce": {
+            "Phantom": ["Phantom"]
+        },
+        "Saab": {
+            "03-Sep": ["03-Sep"]
+        },
+        "Saturn": {
+            "Astra": ["Astra"]
+        },
+        "Scion": {
+            "tC": ["tC"]
+        },
+        "smart": {
+            "fortwo": ["fortwo"]
+        },
+        "Subaru": {
+            "Forester": ["Forester"]
+        },
+        "Suzuki": {
+            "Forenza": ["Forenza"]
+        },
+        "Tesla": {
+            "Roadster": ["Roadster"]
+        },
+        "Toyota": {
+            "4Runner": ["4Runner"]
+        },
+        "Volkswagen": {
+            "Eos": ["Eos"]
+        },
+        "Volvo": {
+            "C30": ["C30"]
+        }
+    },
+    "2009": {
+        "Acura": {
+            "MDX": ["MDX"]
+        },
+        "Aston Martin": {
+            "DB9": ["DB9"]
+        },
+        "Audi": {
+            "A3": ["A3"]
+        },
+        "Bentley": {
+            "Arnage": ["Arnage"]
+        },
+        "BMW": {
+            "1 Series": ["1 Series"]
+        },
+        "Bugatti": {
+            "Veyron 16.4": ["Veyron 16.4"]
+        },
+        "Buick": {
+            "Enclave": ["Enclave"]
+        },
+        "Cadillac": {
+            "CTS": ["CTS"]
+        },
+        "Chevrolet": {
+            "Avalanche": ["Avalanche"]
+        },
+        "Chrysler": {
+            "300": ["300"]
+        },
+        "Dodge": {
+            "Avenger": ["Avenger"]
+        },
+        "Ferrari": {
+            "430 Scuderia": ["430 Scuderia"]
+        },
+        "Ford": {
+            "Crown Victoria": ["Crown Victoria"]
+        },
+        "GMC": {
+            "Acadia": ["Acadia"]
+        },
+        "Honda": {
+            "Accord": ["Accord"]
+        },
+        "HUMMER": {
+            "H2": ["H2"]
+        },
+        "Hyundai": {
+            "Accent": ["Accent"]
+        },
+        "INFINITI": {
+            "EX": ["EX"]
+        },
+        "Jaguar": {
+            "XF": ["XF"]
+        },
+        "Jeep": {
+            "Commander": ["Commander"]
+        },
+        "Kia": {
+            "Amanti": ["Amanti"]
+        },
+        "Lamborghini": {
+            "Gallardo": ["Gallardo"]
+        },
+        "Land Rover": {
+            "LR2": ["LR2"]
+        },
+        "Lexus": {
+            "ES": ["ES"]
+        },
+        "Lincoln": {
+            "MKS": ["MKS"]
+        },
+        "Lotus": {
+            "Elise": ["Elise"]
+        },
+        "Maserati": {
+            "GranTurismo": ["GranTurismo"]
+        },
+        "Maybach": {
+            "57": ["57"]
+        },
+        "Mazda": {
+            "3": ["3"]
+        },
+        "Mercedes-Benz": {
+            "C-Class": ["C-Class"]
+        },
+        "Mercury": {
+            "Grand Marquis": ["Grand Marquis"]
+        },
+        "MINI": {
+            "Cooper": ["Cooper"]
+        },
+        "Mitsubishi": {
+            "Eclipse": ["Eclipse"]
+        },
+        "Nissan": {
+            "350Z": ["350Z"]
+        },
+        "Pontiac": {
+            "G3": ["G3"]
+        },
+        "Porsche": {
+            "911": ["911"]
+        },
+        "Rolls-Royce": {
+            "Phantom": ["Phantom"]
+        },
+        "Saab": {
+            "03-Sep": ["03-Sep"]
+        },
+        "Saturn": {
+            "Aura": ["Aura"]
+        },
+        "Scion": {
+            "tC": ["tC"]
+        },
+        "smart": {
+            "fortwo": ["fortwo"]
+        },
+        "Spyker": {
+            "C8": ["C8"]
+        },
+        "Subaru": {
+            "Forester": ["Forester"]
+        },
+        "Suzuki": {
+            "Equator": ["Equator"]
+        },
+        "Toyota": {
+            "4Runner": ["4Runner"]
+        },
+        "Volkswagen": {
+            "CC": ["CC"]
+        },
+        "Volvo": {
+            "C30": ["C30"]
+        }
+    },
+    "2010": {
+        "Acura": {
+            "MDX": ["MDX"]
+        },
+        "Aston Martin": {
+            "DB9": ["DB9"]
+        },
+        "Audi": {
+            "A3": ["A3"]
+        },
+        "Bentley": {
+            "Azure": ["Azure"]
+        },
+        "BMW": {
+            "1 Series": ["1 Series"]
+        },
+        "Buick": {
+            "Enclave": ["Enclave"]
+        },
+        "Cadillac": {
+            "CTS": ["CTS"]
+        },
+        "Chevrolet": {
+            "Avalanche": ["Avalanche"]
+        },
+        "Chrysler": {
+            "300": ["300"]
+        },
+        "Dodge": {
+            "Avenger": ["Avenger"]
+        },
+        "Ferrari": {
+            "458 Italia": ["458 Italia"]
+        },
+        "Ford": {
+            "Crown Victoria": ["Crown Victoria"]
+        },
+        "GMC": {
+            "Acadia": ["Acadia"]
+        },
+        "Honda": {
+            "Accord": ["Accord"]
+        },
+        "HUMMER": {
+            "H3": ["H3"]
+        },
+        "Hyundai": {
+            "Accent": ["Accent"]
+        },
+        "INFINITI": {
+            "EX": ["EX"]
+        },
+        "Jaguar": {
+            "XF": ["XF"]
+        },
+        "Jeep": {
+            "Commander": ["Commander"]
+        },
+        "Kia": {
+            "Forte": ["Forte"]
+        },
+        "Lamborghini": {
+            "Gallardo": ["Gallardo"]
+        },
+        "Land Rover": {
+            "LR2": ["LR2"]
+        },
+        "Lexus": {
+            "ES": ["ES"]
+        },
+        "Lincoln": {
+            "MKS": ["MKS"]
+        },
+        "Lotus": {
+            "Elise": ["Elise"]
+        },
+        "Maserati": {
+            "GranTurismo": ["GranTurismo"]
+        },
+        "Maybach": {
+            "57": ["57"]
+        },
+        "Mazda": {
+            "3": ["3"]
+        },
+        "Mercedes-Benz": {
+            "C-Class": ["C-Class"]
+        },
+        "Mercury": {
+            "Grand Marquis": ["Grand Marquis"]
+        },
+        "MINI": {
+            "Cooper": ["Cooper"]
+        },
+        "Mitsubishi": {
+            "Eclipse": ["Eclipse"]
+        },
+        "Nissan": {
+            "370Z": ["370Z"]
+        },
+        "Pontiac": {
+            "G6": ["G6"]
+        },
+        "Porsche": {
+            "911": ["911"]
+        },
+        "Rolls-Royce": {
+            "Ghost": ["Ghost"]
+        },
+        "Saab": {
+            "03-Sep": ["03-Sep"]
+        },
+        "Scion": {
+            "tC": ["tC"]
+        },
+        "smart": {
+            "fortwo": ["fortwo"]
+        },
+        "Subaru": {
+            "Forester": ["Forester"]
+        },
+        "Suzuki": {
+            "Equator": ["Equator"]
+        },
+        "Tesla": {
+            "Roadster": ["Roadster"]
+        },
+        "Toyota": {
+            "4Runner": ["4Runner"]
+        },
+        "Volkswagen": {
+            "CC": ["CC"]
+        },
+        "Volvo": {
+            "C30": ["C30"]
+        }
+    },
+    "2011": {
+        "Acura": {
+            "MDX": ["MDX"]
+        },
+        "Aston Martin": {
+            "DB9": ["DB9"]
+        },
+        "Audi": {
+            "A3": ["A3"]
+        },
+        "Bentley": {
+            "Continental Flying Spur": ["Continental Flying Spur"]
+        },
+        "BMW": {
+            "1 Series": ["1 Series"]
+        },
+        "Buick": {
+            "Enclave": ["Enclave"]
+        },
+        "Cadillac": {
+            "CTS": ["CTS"]
+        },
+        "Chevrolet": {
+            "Avalanche": ["Avalanche"]
+        },
+        "Chrysler": {
+            "200": ["200"]
+        },
+        "Dodge": {
+            "Avenger": ["Avenger"]
+        },
+        "Ferrari": {
+            "458 Italia": ["458 Italia"]
+        },
+        "Ford": {
+            "Crown Victoria": ["Crown Victoria"]
+        },
+        "GMC": {
+            "Acadia": ["Acadia"]
+        },
+        "Honda": {
+            "Accord": ["Accord"]
+        },
+        "Hyundai": {
+            "Accent": ["Accent"]
+        },
+        "INFINITI": {
+            "EX": ["EX"]
+        },
+        "Jaguar": {
+            "XF": ["XF"]
+        },
+        "Jeep": {
+            "Compass": ["Compass"]
+        },
+        "Kia": {
+            "Forte": ["Forte"]
+        },
+        "Lamborghini": {
+            "Gallardo": ["Gallardo"]
+        },
+        "Land Rover": {
+            "LR2": ["LR2"]
+        },
+        "Lexus": {
+            "CT": ["CT"]
+        },
+        "Lincoln": {
+            "MKS": ["MKS"]
+        },
+        "Lotus": {
+            "Elise": ["Elise"]
+        },
+        "Maserati": {
+            "GranTurismo": ["GranTurismo"]
+        },
+        "Maybach": {
+            "57": ["57"]
+        },
+        "Mazda": {
+            "2": ["2"]
+        },
+        "Mercedes-Benz": {
+            "C-Class": ["C-Class"]
+        },
+        "Mercury": {
+            "Grand Marquis": ["Grand Marquis"]
+        },
+        "MINI": {
+            "Cooper": ["Cooper"]
+        },
+        "Mitsubishi": {
+            "Eclipse": ["Eclipse"]
+        },
+        "Nissan": {
+            "370Z": ["370Z"]
+        },
+        "Porsche": {
+            "911": ["911"]
+        },
+        "Ram": {
+            "1500": ["1500"]
+        },
+        "Rolls-Royce": {
+            "Ghost": ["Ghost"]
+        },
+        "Saab": {
+            "03-Sep": ["03-Sep"]
+        },
+        "Scion": {
+            "tC": ["tC"]
+        },
+        "smart": {
+            "fortwo": ["fortwo"]
+        },
+        "Subaru": {
+            "Forester": ["Forester"]
+        },
+        "Suzuki": {
+            "Equator": ["Equator"]
+        },
+        "Tesla": {
+            "Roadster": ["Roadster"]
+        },
+        "Toyota": {
+            "4Runner": ["4Runner"]
+        },
+        "Volkswagen": {
+            "CC": ["CC"]
+        },
+        "Volvo": {
+            "C30": ["C30"]
+        }
+    },
+    "2012": {
+        "Acura": {
+            "MDX": ["MDX"]
+        },
+        "Aston Martin": {
+            "DB9": ["DB9"]
+        },
+        "Audi": {
+            "A3": ["A3"]
+        },
+        "Bentley": {
+            "Continental Flying Spur": ["Continental Flying Spur"]
+        },
+        "BMW": {
+            "1 Series": ["1 Series"]
+        },
+        "Buick": {
+            "Enclave": ["Enclave"]
+        },
+        "Cadillac": {
+            "CTS": ["CTS"]
+        },
+        "Chevrolet": {
+            "Avalanche": ["Avalanche"]
+        },
+        "Chrysler": {
+            "200": ["200"]
+        },
+        "Dodge": {
+            "Avenger": ["Avenger"]
+        },
+        "Ferrari": {
+            "458 Italia": ["458 Italia"]
+        },
+        "FIAT": {
+            "500": ["500"]
+        },
+        "Fisker": {
+            "Karma": ["Karma"]
+        },
+        "Ford": {
+            "E-Series Van": ["E-Series Van"]
+        },
+        "GMC": {
+            "Acadia": ["Acadia"]
+        },
+        "Honda": {
+            "Accord": ["Accord"]
+        },
+        "Hyundai": {
+            "Accent": ["Accent"]
+        },
+        "INFINITI": {
+            "EX": ["EX"]
+        },
+        "Jaguar": {
+            "XF": ["XF"]
+        },
+        "Jeep": {
+            "Compass": ["Compass"]
+        },
+        "Kia": {
+            "Forte": ["Forte"]
+        },
+        "Lamborghini": {
+            "Aventador": ["Aventador"]
+        },
+        "Land Rover": {
+            "LR2": ["LR2"]
+        },
+        "Lexus": {
+            "CT": ["CT"]
+        },
+        "Lincoln": {
+            "MKS": ["MKS"]
+        },
+        "Maserati": {
+            "GranTurismo": ["GranTurismo"]
+        },
+        "Maybach": {
+            "57": ["57"]
+        },
+        "Mazda": {
+            "2": ["2"]
+        },
+        "McLaren": {
+            "MP4-12C": ["MP4-12C"]
+        },
+        "Mercedes-Benz": {
+            "C-Class": ["C-Class"]
+        },
+        "MINI": {
+            "Cooper": ["Cooper"]
+        },
+        "Mitsubishi": {
+            "Eclipse": ["Eclipse"]
+        },
+        "Nissan": {
+            "370Z": ["370Z"]
+        },
+        "Porsche": {
+            "911": ["911"]
+        },
+        "Ram": {
+            "1500": ["1500"]
+        },
+        "Rolls-Royce": {
+            "Ghost": ["Ghost"]
+        },
+        "Saab": {
+            "9-3 Griffin": ["9-3 Griffin"]
+        },
+        "Scion": {
+            "iQ": ["iQ"]
+        },
+        "smart": {
+            "fortwo": ["fortwo"]
+        },
+        "Subaru": {
+            "Forester": ["Forester"]
+        },
+        "Suzuki": {
+            "Equator": ["Equator"]
+        },
+        "Tesla": {
+            "Model S": ["Model S"]
+        },
+        "Toyota": {
+            "4Runner": ["4Runner"]
+        },
+        "Volkswagen": {
+            "Beetle": ["Beetle"]
+        },
+        "Volvo": {
+            "C30": ["C30"]
+        }
+    },
+    "2013": {
+        "Acura": {
+            "ILX": ["ILX"]
+        },
+        "Aston Martin": {
+            "DB9": ["DB9"]
+        },
+        "Audi": {
+            "A3": ["A3"]
+        },
+        "Bentley": {
+            "Continental Flying Spur": ["Continental Flying Spur"]
+        },
+        "BMW": {
+            "1 Series": ["1 Series"]
+        },
+        "Buick": {
+            "Enclave": ["Enclave"]
+        },
+        "Cadillac": {
+            "ATS": ["ATS"]
+        },
+        "Chevrolet": {
+            "Black Diamond Avalanche": ["Black Diamond Avalanche"]
+        },
+        "Chrysler": {
+            "200": ["200"]
+        },
+        "Dodge": {
+            "Avenger": ["Avenger"]
+        },
+        "Ferrari": {
+            "458 Italia": ["458 Italia"]
+        },
+        "FIAT": {
+            "500": ["500"]
+        },
+        "Ford": {
+            "C-Max Energi": ["C-Max Energi"]
+        },
+        "GMC": {
+            "Acadia": ["Acadia"]
+        },
+        "Honda": {
+            "Accord": ["Accord"]
+        },
+        "Hyundai": {
+            "Accent": ["Accent"]
+        },
+        "INFINITI": {
+            "EX": ["EX"]
+        },
+        "Jaguar": {
+            "XF": ["XF"]
+        },
+        "Jeep": {
+            "Compass": ["Compass"]
+        },
+        "Kia": {
+            "Forte": ["Forte"]
+        },
+        "Lamborghini": {
+            "Aventador": ["Aventador"]
+        },
+        "Land Rover": {
+            "LR2": ["LR2"]
+        },
+        "Lexus": {
+            "CT": ["CT"]
+        },
+        "Lincoln": {
+            "MKS": ["MKS"]
+        },
+        "Lotus": {
+            "Evora": ["Evora"]
+        },
+        "Maserati": {
+            "GranTurismo": ["GranTurismo"]
+        },
+        "Mazda": {
+            "2": ["2"]
+        },
+        "McLaren": {
+            "MP4-12C": ["MP4-12C"]
+        },
+        "Mercedes-Benz": {
+            "C-Class": ["C-Class"]
+        },
+        "MINI": {
+            "Cooper": ["Cooper"]
+        },
+        "Mitsubishi": {
+            "Lancer": ["Lancer"]
+        },
+        "Nissan": {
+            "370Z": ["370Z"]
+        },
+        "Porsche": {
+            "911": ["911"]
+        },
+        "Ram": {
+            "1500": ["1500"]
+        },
+        "Rolls-Royce": {
+            "Ghost": ["Ghost"]
+        },
+        "Scion": {
+            "FR-S": ["FR-S"]
+        },
+        "smart": {
+            "fortwo": ["fortwo"]
+        },
+        "Subaru": {
+            "BRZ": ["BRZ"]
+        },
+        "Suzuki": {
+            "Grand Vitara": ["Grand Vitara"]
+        },
+        "Tesla": {
+            "Model S": ["Model S"]
+        },
+        "Toyota": {
+            "4Runner": ["4Runner"]
+        },
+        "Volkswagen": {
+            "Beetle": ["Beetle"]
+        },
+        "Volvo": {
+            "C30": ["C30"]
+        }
+    },
+    "2014": {
+        "Acura": {
+            "ILX": ["ILX"]
+        },
+        "Aston Martin": {
+            "DB9": ["DB9"]
+        },
+        "Audi": {
+            "A4": ["A4"]
+        },
+        "Bentley": {
+            "Continental GT": ["Continental GT"]
+        },
+        "BMW": {
+            "2 Series": ["2 Series"]
+        },
+        "Buick": {
+            "Enclave": ["Enclave"]
+        },
+        "Cadillac": {
+            "ATS": ["ATS"]
+        },
+        "Chevrolet": {
+            "Camaro": ["Camaro"]
+        },
+        "Chrysler": {
+            "200": ["200"]
+        },
+        "Dodge": {
+            "Avenger": ["Avenger"]
+        },
+        "Ferrari": {
+            "458 Italia": ["458 Italia"]
+        },
+        "FIAT": {
+            "500": ["500"]
+        },
+        "Ford": {
+            "C-Max Energi": ["C-Max Energi"]
+        },
+        "GMC": {
+            "Acadia": ["Acadia"]
+        },
+        "Honda": {
+            "Accord": ["Accord"]
+        },
+        "Hyundai": {
+            "Accent": ["Accent"]
+        },
+        "INFINITI": {
+            "Q50": ["Q50"]
+        },
+        "Jaguar": {
+            "F-TYPE": ["F-TYPE"]
+        },
+        "Jeep": {
+            "Cherokee": ["Cherokee"]
+        },
+        "Kia": {
+            "Cadenza": ["Cadenza"]
+        },
+        "Lamborghini": {
+            "Aventador": ["Aventador"]
+        },
+        "Land Rover": {
+            "LR2": ["LR2"]
+        },
+        "Lexus": {
+            "CT": ["CT"]
+        },
+        "Lincoln": {
+            "MKS": ["MKS"]
+        },
+        "Lotus": {
+            "Evora": ["Evora"]
+        },
+        "Maserati": {
+            "Ghibli": ["Ghibli"]
+        },
+        "Mazda": {
+            "2": ["2"]
+        },
+        "Mercedes-Benz": {
+            "B-Class Electric Drive": ["B-Class Electric Drive"]
+        },
+        "MINI": {
+            "Cooper": ["Cooper"]
+        },
+        "Mitsubishi": {
+            "i-MiEV": ["i-MiEV"]
+        },
+        "Nissan": {
+            "370Z": ["370Z"]
+        },
+        "Porsche": {
+            "911": ["911"]
+        },
+        "Ram": {
+            "1500": ["1500"]
+        },
+        "Rolls-Royce": {
+            "Ghost": ["Ghost"]
+        },
+        "Scion": {
+            "FR-S": ["FR-S"]
+        },
+        "smart": {
+            "fortwo": ["fortwo"]
+        },
+        "Subaru": {
+            "BRZ": ["BRZ"]
+        },
+        "Tesla": {
+            "Model S": ["Model S"]
+        },
+        "Toyota": {
+            "4Runner": ["4Runner"]
+        },
+        "Volkswagen": {
+            "Beetle": ["Beetle"]
+        },
+        "Volvo": {
+            "S60": ["S60"]
+        }
+    },
+    "2015": {
+        "Acura": {
+            "ILX": ["ILX"]
+        },
+        "Alfa Romeo": {
+            "4C": ["4C"]
+        },
+        "Aston Martin": {
+            "DB9": ["DB9"]
+        },
+        "Audi": {
+            "A3": ["A3"]
+        },
+        "Bentley": {
+            "Continental GT": ["Continental GT"]
+        },
+        "BMW": {
+            "2 Series": ["2 Series"]
+        },
+        "Buick": {
+            "Enclave": ["Enclave"]
+        },
+        "Cadillac": {
+            "ATS": ["ATS"]
+        },
+        "Chevrolet": {
+            "Camaro": ["Camaro"]
+        },
+        "Chrysler": {
+            "200": ["200"]
+        },
+        "Dodge": {
+            "Challenger": ["Challenger"]
+        },
+        "Ferrari": {
+            "458 Italia": ["458 Italia"]
+        },
+        "FIAT": {
+            "500": ["500"]
+        },
+        "Ford": {
+            "C-Max Energi": ["C-Max Energi"]
+        },
+        "GMC": {
+            "Acadia": ["Acadia"]
+        },
+        "Honda": {
+            "Accord": ["Accord"]
+        },
+        "Hyundai": {
+            "Accent": ["Accent"]
+        },
+        "INFINITI": {
+            "Q40": ["Q40"]
+        },
+        "Jaguar": {
+            "F-TYPE": ["F-TYPE"]
+        },
+        "Jeep": {
+            "Cherokee": ["Cherokee"]
+        },
+        "Kia": {
+            "Cadenza": ["Cadenza"]
+        },
+        "Lamborghini": {
+            "Aventador": ["Aventador"]
+        },
+        "Land Rover": {
+            "Discovery Sport": ["Discovery Sport"]
+        },
+        "Lexus": {
+            "CT": ["CT"]
+        },
+        "Lincoln": {
+            "MKC": ["MKC"]
+        },
+        "Maserati": {
+            "Ghibli": ["Ghibli"]
+        },
+        "Mazda": {
+            "3": ["3"]
+        },
+        "McLaren": {
+            "650S Coupe": ["650S Coupe"]
+        },
+        "Mercedes-Benz": {
+            "B-Class Electric Drive": ["B-Class Electric Drive"]
+        },
+        "MINI": {
+            "Cooper": ["Cooper"]
+        },
+        "Mitsubishi": {
+            "Lancer": ["Lancer"]
+        },
+        "Nissan": {
+            "370Z": ["370Z"]
+        },
+        "Porsche": {
+            "911": ["911"]
+        },
+        "Ram": {
+            "1500": ["1500"]
+        },
+        "Rolls-Royce": {
+            "Ghost": ["Ghost"]
+        },
+        "Scion": {
+            "FR-S": ["FR-S"]
+        },
+        "smart": {
+            "fortwo": ["fortwo"]
+        },
+        "Subaru": {
+            "BRZ": ["BRZ"]
+        },
+        "Tesla": {
+            "Model S": ["Model S"]
+        },
+        "Toyota": {
+            "4Runner": ["4Runner"]
+        },
+        "Volkswagen": {
+            "Beetle": ["Beetle"]
+        },
+        "Volvo": {
+            "S60": ["S60"]
+        }
+    },
+    "2016": {
+        "Acura": {
+            "ILX": ["ILX"]
+        },
+        "Alfa Romeo": {
+            "4C": ["4C"]
+        },
+        "Aston Martin": {
+            "DB9 GT": ["DB9 GT"]
+        },
+        "Audi": {
+            "A3": ["A3"]
+        },
+        "Bentley": {
+            "Continental GT": ["Continental GT"]
+        },
+        "BMW": {
+            "2 Series": ["2 Series"]
+        },
+        "Buick": {
+            "Cascada": ["Cascada"]
+        },
+        "Cadillac": {
+            "ATS": ["ATS"]
+        },
+        "Chevrolet": {
+            "Camaro": ["Camaro"]
+        },
+        "Chrysler": {
+            "200": ["200"]
+        },
+        "Dodge": {
+            "Challenger": ["Challenger"]
+        },
+        "Ferrari": {
+            "488 GTB": ["488 GTB"]
+        },
+        "FIAT": {
+            "500": ["500"]
+        },
+        "Ford": {
+            "C-Max Energi": ["C-Max Energi"]
+        },
+        "GMC": {
+            "Acadia": ["Acadia"]
+        },
+        "Honda": {
+            "Accord": ["Accord"]
+        },
+        "Hyundai": {
+            "Accent": ["Accent"]
+        },
+        "INFINITI": {
+            "Q50": ["Q50"]
+        },
+        "Jaguar": {
+            "F-TYPE": ["F-TYPE"]
+        },
+        "Jeep": {
+            "Cherokee": ["Cherokee"]
+        },
+        "Kia": {
+            "Cadenza": ["Cadenza"]
+        },
+        "Lamborghini": {
+            "Aventador": ["Aventador"]
+        },
+        "Land Rover": {
+            "Discovery Sport": ["Discovery Sport"]
+        },
+        "Lexus": {
+            "CT": ["CT"]
+        },
+        "Lincoln": {
+            "MKC": ["MKC"]
+        },
+        "Maserati": {
+            "Ghibli": ["Ghibli"]
+        },
+        "Mazda": {
+            "3": ["3"]
+        },
+        "McLaren": {
+            "570S": ["570S"]
+        },
+        "Mercedes-Benz": {
+            "AMG GT": ["AMG GT"]
+        },
+        "MINI": {
+            "Cooper": ["Cooper"]
+        },
+        "Mitsubishi": {
+            "i-MiEV": ["i-MiEV"]
+        },
+        "Nissan": {
+            "370Z": ["370Z"]
+        },
+        "Porsche": {
+            "911": ["911"]
+        },
+        "Ram": {
+            "1500": ["1500"]
+        },
+        "Rolls-Royce": {
+            "Dawn": ["Dawn"]
+        },
+        "Scion": {
+            "FR-S": ["FR-S"]
+        },
+        "smart": {
+            "fortwo": ["fortwo"]
+        },
+        "Subaru": {
+            "BRZ": ["BRZ"]
+        },
+        "Tesla": {
+            "Model S": ["Model S"]
+        },
+        "Toyota": {
+            "4Runner": ["4Runner"]
+        },
+        "Volkswagen": {
+            "Beetle": ["Beetle"]
+        },
+        "Volvo": {
+            "S60": ["S60"]
+        }
+    },
+    "2017": {
+        "Acura": {
+            "ILX": ["ILX"]
+        },
+        "Alfa Romeo": {
+            "4C": ["4C"]
+        },
+        "Aston Martin": {
+            "DB11": ["DB11"]
+        },
+        "Audi": {
+            "A3": ["A3"]
+        },
+        "Bentley": {
+            "Bentayga": ["Bentayga"]
+        },
+        "BMW": {
+            "2 Series": ["2 Series"]
+        },
+        "Buick": {
+            "Cascada": ["Cascada"]
+        },
+        "Cadillac": {
+            "ATS": ["ATS"]
+        },
+        "Chevrolet": {
+            "Bolt EV": ["Bolt EV"]
+        },
+        "Chrysler": {
+            "200": ["200"]
+        },
+        "Dodge": {
+            "Challenger": ["Challenger"]
+        },
+        "Ferrari": {
+            "488 GTB": ["488 GTB"]
+        },
+        "FIAT": {
+            "124 Spider": ["124 Spider"]
+        },
+        "Ford": {
+            "C-Max Energi": ["C-Max Energi"]
+        },
+        "Genesis": {
+            "G80": ["G80"]
+        },
+        "GMC": {
+            "Acadia": ["Acadia"]
+        },
+        "Honda": {
+            "Accord": ["Accord"]
+        },
+        "Hyundai": {
+            "Accent": ["Accent"]
+        },
+        "INFINITI": {
+            "Q50": ["Q50"]
+        },
+        "Jaguar": {
+            "F-PACE": ["F-PACE"]
+        },
+        "Jeep": {
+            "Cherokee": ["Cherokee"]
+        },
+        "Kia": {
+            "Cadenza": ["Cadenza"]
+        },
+        "Lamborghini": {
+            "Aventador": ["Aventador"]
+        },
+        "Land Rover": {
+            "Discovery": ["Discovery"]
+        },
+        "Lexus": {
+            "CT": ["CT"]
+        },
+        "Lincoln": {
+            "Continental": ["Continental"]
+        },
+        "Lotus": {
+            "Evora 400": ["Evora 400"]
+        },
+        "Maserati": {
+            "Ghibli": ["Ghibli"]
+        },
+        "Mazda": {
+            "3": ["3"]
+        },
+        "McLaren": {
+            "570GT": ["570GT"]
+        },
+        "Mercedes-Benz": {
+            "AMG GT": ["AMG GT"]
+        },
+        "MINI": {
+            "Clubman": ["Clubman"]
+        },
+        "Mitsubishi": {
+            "i-MiEV": ["i-MiEV"]
+        },
+        "Nissan": {
+            "370Z": ["370Z"]
+        },
+        "Porsche": {
+            "718 Boxster": ["718 Boxster"]
+        },
+        "Ram": {
+            "1500": ["1500"]
+        },
+        "Rolls-Royce": {
+            "Dawn": ["Dawn"]
+        },
+        "smart": {
+            "fortwo": ["fortwo"]
+        },
+        "Subaru": {
+            "BRZ": ["BRZ"]
+        },
+        "Tesla": {
+            "Model 3": ["Model 3"]
+        },
+        "Toyota": {
+            "4Runner": ["4Runner"]
+        },
+        "Volkswagen": {
+            "Beetle": ["Beetle"]
+        },
+        "Volvo": {
+            "S60": ["S60"]
+        }
+    },
+    "2018": {
+        "Acura": {
+            "ILX": ["ILX"]
+        },
+        "Alfa Romeo": {
+            "4C": ["4C"]
+        },
+        "Aston Martin": {
+            "DB11": ["DB11"]
+        },
+        "Audi": {
+            "A3": ["A3"]
+        },
+        "Bentley": {
+            "Bentayga": ["Bentayga"]
+        },
+        "BMW": {
+            "2 Series": ["2 Series"]
+        },
+        "Buick": {
+            "Cascada": ["Cascada"]
+        },
+        "Cadillac": {
+            "ATS": ["ATS"]
+        },
+        "Chevrolet": {
+            "Bolt EV": ["Bolt EV"]
+        },
+        "Chrysler": {
+            "300": ["300"]
+        },
+        "Dodge": {
+            "Challenger": ["Challenger"]
+        },
+        "Ferrari": {
+            "488 GTB": ["488 GTB"]
+        },
+        "FIAT": {
+            "124 Spider": ["124 Spider"]
+        },
+        "Ford": {
+            "C-Max Hybrid": ["C-Max Hybrid"]
+        },
+        "Genesis": {
+            "G80": ["G80"]
+        },
+        "GMC": {
+            "Acadia": ["Acadia"]
+        },
+        "Honda": {
+            "Accord": ["Accord"]
+        },
+        "Hyundai": {
+            "Accent": ["Accent"]
+        },
+        "INFINITI": {
+            "Q50": ["Q50"]
+        },
+        "Jaguar": {
+            "E-PACE": ["E-PACE"]
+        },
+        "Jeep": {
+            "Cherokee": ["Cherokee"]
+        },
+        "Kia": {
+            "Cadenza": ["Cadenza"]
+        },
+        "Lamborghini": {
+            "Huracan": ["Huracan"]
+        },
+        "Land Rover": {
+            "Discovery": ["Discovery"]
+        },
+        "Lexus": {
+            "ES": ["ES"]
+        },
+        "Lincoln": {
+            "Continental": ["Continental"]
+        },
+        "Maserati": {
+            "Ghibli": ["Ghibli"]
+        },
+        "Mazda": {
+            "3": ["3"]
+        },
+        "McLaren": {
+            "570S": ["570S"]
+        },
+        "Mercedes-Benz": {
+            "AMG GT": ["AMG GT"]
+        },
+        "MINI": {
+            "Clubman": ["Clubman"]
+        },
+        "Mitsubishi": {
+            "Eclipse Cross": ["Eclipse Cross"]
+        },
+        "Nissan": {
+            "370Z": ["370Z"]
+        },
+        "Porsche": {
+            "718 Boxster": ["718 Boxster"]
+        },
+        "Ram": {
+            "1500": ["1500"]
+        },
+        "Rolls-Royce": {
+            "Dawn": ["Dawn"]
+        },
+        "smart": {
+            "fortwo": ["fortwo"]
+        },
+        "Subaru": {
+            "BRZ": ["BRZ"]
+        },
+        "Tesla": {
+            "Model 3": ["Model 3"]
+        },
+        "Toyota": {
+            "4Runner": ["4Runner"]
+        },
+        "Volkswagen": {
+            "Atlas": ["Atlas"]
+        },
+        "Volvo": {
+            "S60": ["S60"]
+        }
+    },
+    "2019": {
+        "Acura": {
+            "ILX": ["ILX"]
+        },
+        "Alfa Romeo": {
+            "4C": ["4C"]
+        },
+        "Aston Martin": {
+            "DB11": ["DB11"]
+        },
+        "Audi": {
+            "A3": ["A3"]
+        },
+        "Bentley": {
+            "Bentayga": ["Bentayga"]
+        },
+        "BMW": {
+            "2 Series": ["2 Series"]
+        },
+        "Buick": {
+            "Cascada": ["Cascada"]
+        },
+        "Cadillac": {
+            "ATS Coupe": ["ATS Coupe"]
+        },
+        "Chevrolet": {
+            "Blazer": ["Blazer"]
+        },
+        "Chrysler": {
+            "300": ["300"]
+        },
+        "Dodge": {
+            "Challenger": ["Challenger"]
+        },
+        "Ferrari": {
+            "488 GTB": ["488 GTB"]
+        },
+        "FIAT": {
+            "124 Spider": ["124 Spider"]
+        },
+        "Ford": {
+            "EcoSport": ["EcoSport"]
+        },
+        "Genesis": {
+            "G70": ["G70"]
+        },
+        "GMC": {
+            "Acadia": ["Acadia"]
+        },
+        "Honda": {
+            "Accord": ["Accord"]
+        },
+        "Hyundai": {
+            "Accent": ["Accent"]
+        },
+        "INFINITI": {
+            "Q50": ["Q50"]
+        },
+        "Jaguar": {
+            "E-PACE": ["E-PACE"]
+        },
+        "Jeep": {
+            "Cherokee": ["Cherokee"]
+        },
+        "Kia": {
+            "Cadenza": ["Cadenza"]
+        },
+        "Lamborghini": {
+            "Aventador": ["Aventador"]
+        },
+        "Land Rover": {
+            "Discovery": ["Discovery"]
+        },
+        "Lexus": {
+            "ES": ["ES"]
+        },
+        "Lincoln": {
+            "Continental": ["Continental"]
+        },
+        "Maserati": {
+            "Ghibli": ["Ghibli"]
+        },
+        "Mazda": {
+            "3": ["3"]
+        },
+        "McLaren": {
+            "570S": ["570S"]
+        },
+        "Mercedes-Benz": {
+            "A-Class": ["A-Class"]
+        },
+        "MINI": {
+            "Clubman": ["Clubman"]
+        },
+        "Mitsubishi": {
+            "Eclipse Cross": ["Eclipse Cross"]
+        },
+        "Nissan": {
+            "370Z": ["370Z"]
+        },
+        "Porsche": {
+            "718 Boxster": ["718 Boxster"]
+        },
+        "Ram": {
+            "1500": ["1500"]
+        },
+        "Rolls-Royce": {
+            "Cullinan": ["Cullinan"]
+        },
+        "smart": {
+            "EQ fortwo": ["EQ fortwo"]
+        },
+        "Subaru": {
+            "Ascent": ["Ascent"]
+        },
+        "Tesla": {
+            "Model 3": ["Model 3"]
+        },
+        "Toyota": {
+            "4Runner": ["4Runner"]
+        },
+        "Volkswagen": {
+            "Arteon": ["Arteon"]
+        },
+        "Volvo": {
+            "S60": ["S60"]
+        }
+    },
+    "2020": {
+        "Acura": {
+            "ILX": ["ILX"]
+        },
+        "Alfa Romeo": {
+            "4C": ["4C"]
+        },
+        "Aston Martin": {
+            "DB11": ["DB11"]
+        },
+        "Audi": {
+            "A3": ["A3"]
+        },
+        "Bentley": {
+            "Bentayga": ["Bentayga"]
+        },
+        "BMW": {
+            "2 Series": ["2 Series"]
+        },
+        "Buick": {
+            "Enclave": ["Enclave"]
+        },
+        "Cadillac": {
+            "CT4": ["CT4"]
+        },
+        "Chevrolet": {
+            "Blazer": ["Blazer"]
+        },
+        "Chrysler": {
+            "300": ["300"]
+        },
+        "Dodge": {
+            "Challenger": ["Challenger"]
+        },
+        "FIAT": {
+            "124 Spider": ["124 Spider"]
+        },
+        "Ford": {
+            "EcoSport": ["EcoSport"]
+        },
+        "Genesis": {
+            "G70": ["G70"]
+        },
+        "GMC": {
+            "Acadia": ["Acadia"]
+        },
+        "Honda": {
+            "Accord": ["Accord"]
+        },
+        "Hyundai": {
+            "Accent": ["Accent"]
+        },
+        "INFINITI": {
+            "Q50": ["Q50"]
+        },
+        "Jaguar": {
+            "E-PACE": ["E-PACE"]
+        },
+        "Jeep": {
+            "Cherokee": ["Cherokee"]
+        },
+        "Kia": {
+            "Cadenza": ["Cadenza"]
+        },
+        "Lamborghini": {
+            "Huracan": ["Huracan"]
+        },
+        "Land Rover": {
+            "Defender": ["Defender"]
+        },
+        "Lexus": {
+            "ES": ["ES"]
+        },
+        "Lincoln": {
+            "Aviator": ["Aviator"]
+        },
+        "Lotus": {
+            "Evora GT": ["Evora GT"]
+        },
+        "Maserati": {
+            "Ghibli": ["Ghibli"]
+        },
+        "Mazda": {
+            "3": ["3"]
+        },
+        "McLaren": {
+            "570S": ["570S"]
+        },
+        "Mercedes-Benz": {
+            "A-Class": ["A-Class"]
+        },
+        "MINI": {
+            "Clubman": ["Clubman"]
+        },
+        "Mitsubishi": {
+            "Eclipse Cross": ["Eclipse Cross"]
+        },
+        "Nissan": {
+            "370Z": ["370Z"]
+        },
+        "Polestar": {
+            "1": ["1"]
+        },
+        "Porsche": {
+            "718 Boxster": ["718 Boxster"]
+        },
+        "Ram": {
+            "1500": ["1500"]
+        },
+        "Rolls-Royce": {
+            "Cullinan": ["Cullinan"]
+        },
+        "Subaru": {
+            "Ascent": ["Ascent"]
+        },
+        "Tesla": {
+            "Model 3": ["Model 3"]
+        },
+        "Toyota": {
+            "4Runner": ["4Runner"]
+        },
+        "Volkswagen": {
+            "Arteon": ["Arteon"]
+        },
+        "Volvo": {
+            "S60": ["S60"]
+        }
+    },
+    "2021": {
+        "Acura": {
+            "RDX": ["RDX"]
+        },
+        "Alfa Romeo": {
+            "4C": ["4C"]
+        },
+        "Aston Martin": {
+            "DB11": ["DB11"]
+        },
+        "Audi": {
+            "Q3": ["Q3"]
+        },
+        "Bentley": {
+            "Bentayga": ["Bentayga"]
+        },
+        "BMW": {
+            "3 Series": ["3 Series"]
+        },
+        "Buick": {
+            "Encore": ["Encore"]
+        },
+        "Cadillac": {
+            "Escalade": ["Escalade"]
+        },
+        "Chevrolet": {
+            "Colorado": ["Colorado"]
+        },
+        "Chrysler": {
+            "Pacifica": ["Pacifica"]
+        },
+        "Dodge": {
+            "Charger": ["Charger"]
+        },
+        "FIAT": {
+            "124 Spider": ["124 Spider"]
+        },
+        "Ford": {
+            "Bronco Sport": ["Bronco Sport"]
+        },
+        "Genesis": {
+            "G70": ["G70"]
+        },
+        "GMC": {
+            "Canyon": ["Canyon"]
+        },
+        "Honda": {
+            "Insight": ["Insight"]
+        },
+        "Hyundai": {
+            "Kona": ["Kona"]
+        },
+        "INFINITI": {
+            "Q50": ["Q50"]
+        },
+        "Jaguar": {
+            "F-TYPE": ["F-TYPE"]
+        },
+        "Jeep": {
+            "Compass": ["Compass"]
+        },
+        "Karma": {
+            "GS-6": ["GS-6"]
+        },
+        "Kia": {
+            "K5": ["K5"]
+        },
+        "Lamborghini": {
+            "Huracan": ["Huracan"]
+        },
+        "Land Rover": {
+            "Range Rover Sport": ["Range Rover Sport"]
+        },
+        "Lexus": {
+            "LC": ["LC"]
+        },
+        "Lincoln": {
+            "Aviator": ["Aviator"]
+        },
+        "Lotus": {
+            "Evora GT": ["Evora GT"]
+        },
+        "Maserati": {
+            "Ghibli": ["Ghibli"]
+        },
+        "Mazda": {
+            "3": ["3"]
+        },
+        "McLaren": {
+            "570S": ["570S"]
+        },
+        "Mercedes-Benz": {
+            "GLA-Class": ["GLA-Class"]
+        },
+        "MINI": {
+            "Hardtop 2 Door": ["Hardtop 2 Door"]
+        },
+        "Mitsubishi": {
+            "Eclipse Cross": ["Eclipse Cross"]
+        },
+        "Nissan": {
+            "Titan": ["Titan"]
+        },
+        "Polestar": {
+            "2": ["2"]
+        },
+        "Porsche": {
+            "911": ["911"]
+        },
+        "Ram": {
+            "1500": ["1500"]
+        },
+        "Rolls-Royce": {
+            "Cullinan": ["Cullinan"]
+        },
+        "Subaru": {
+            "Impreza": ["Impreza"]
+        },
+        "Tesla": {
+            "Model 3": ["Model 3"]
+        },
+        "Toyota": {
+            "Corolla": ["Corolla"]
+        },
+        "Volkswagen": {
+            "Atlas": ["Atlas"]
+        },
+        "Volvo": {
+            "XC60": ["XC60"]
+        }
+    },
+    "2022": {
+        "Acura": {
+            "RDX": ["RDX"]
+        },
+        "Alfa Romeo": {
+            "4C": ["4C"]
+        },
+        "Aston Martin": {
+            "DB11": ["DB11"]
+        },
+        "Audi": {
+            "Q3": ["Q3"]
+        },
+        "Bentley": {
+            "Bentayga": ["Bentayga"]
+        },
+        "BMW": {
+            "3 Series": ["3 Series"]
+        },
+        "Buick": {
+            "Encore": ["Encore"]
+        },
+        "Cadillac": {
+            "Escalade": ["Escalade"]
+        },
+        "Chevrolet": {
+            "Colorado": ["Colorado"]
+        },
+        "Chrysler": {
+            "Pacifica": ["Pacifica"]
+        },
+        "Dodge": {
+            "Charger": ["Charger"]
+        },
+        "FIAT": {
+            "124 Spider": ["124 Spider"]
+        },
+        "Ford": {
+            "Bronco": ["Bronco"]
+        },
+        "Genesis": {
+            "G70": ["G70"]
+        },
+        "GMC": {
+            "Canyon": ["Canyon"]
+        },
+        "Honda": {
+            "Insight": ["Insight"]
+        },
+        "Hyundai": {
+            "Kona": ["Kona"]
+        },
+        "INFINITI": {
+            "Q50": ["Q50"]
+        },
+        "Jaguar": {
+            "F-TYPE": ["F-TYPE"]
+        },
+        "Jeep": {
+            "Compass": ["Compass"]
+        },
+        "Karma": {
+            "GS-6": ["GS-6"]
+        },
+        "Kia": {
+            "K5": ["K5"]
+        },
+        "Lamborghini": {
+            "Huracan": ["Huracan"]
+        },
+        "Land Rover": {
+            "Range Rover Sport": ["Range Rover Sport"]
+        },
+        "Lexus": {
+            "LC": ["LC"]
+        },
+        "Lincoln": {
+            "Aviator": ["Aviator"]
+        },
+        "Lotus": {
+            "Evora GT": ["Evora GT"]
+        },
+        "Lucid": {
+            "Air": ["Air"]
+        },
+        "Maserati": {
+            "Ghibli": ["Ghibli"]
+        },
+        "Mazda": {
+            "3": ["3"]
+        },
+        "McLaren": {
+            "570S": ["570S"]
+        },
+        "Mercedes-Benz": {
+            "GLA-Class": ["GLA-Class"]
+        },
+        "MINI": {
+            "Hardtop 2 Door": ["Hardtop 2 Door"]
+        },
+        "Mitsubishi": {
+            "Eclipse Cross": ["Eclipse Cross"]
+        },
+        "Nissan": {
+            "Titan": ["Titan"]
+        },
+        "Polestar": {
+            "2": ["2"]
+        },
+        "Porsche": {
+            "911": ["911"]
+        },
+        "Ram": {
+            "1500": ["1500"]
+        },
+        "Rivian": {
+            "R1T": ["R1T"]
+        },
+        "Rolls-Royce": {
+            "Cullinan": ["Cullinan"]
+        },
+        "Subaru": {
+            "Impreza": ["Impreza"]
+        },
+        "Tesla": {
+            "Model 3": ["Model 3"]
+        },
+        "Toyota": {
+            "Corolla": ["Corolla"]
+        },
+        "Volkswagen": {
+            "Atlas": ["Atlas"]
+        },
+        "Volvo": {
+            "XC60": ["XC60"]
+        }
+    },
+    "2023": {
+        "Acura": {
+            "RDX": ["RDX"]
+        },
+        "Alfa Romeo": {
+            "4C": ["4C"]
+        },
+        "Aston Martin": {
+            "DB11": ["DB11"]
+        },
+        "Audi": {
+            "Q3": ["Q3"]
+        },
+        "Bentley": {
+            "Bentayga": ["Bentayga"]
+        },
+        "BMW": {
+            "3 Series": ["3 Series"]
+        },
+        "Buick": {
+            "Encore": ["Encore"]
+        },
+        "Cadillac": {
+            "Escalade": ["Escalade"]
+        },
+        "Chevrolet": {
+            "Colorado": ["Colorado"]
+        },
+        "Chrysler": {
+            "Pacifica": ["Pacifica"]
+        },
+        "Dodge": {
+            "Charger": ["Charger"]
+        },
+        "FIAT": {
+            "124 Spider": ["124 Spider"]
+        },
+        "Ford": {
+            "Bronco": ["Bronco"]
+        },
+        "Genesis": {
+            "G70": ["G70"]
+        },
+        "GMC": {
+            "Canyon": ["Canyon"]
+        },
+        "Honda": {
+            "Insight": ["Insight"]
+        },
+        "Hyundai": {
+            "Kona": ["Kona"]
+        },
+        "INFINITI": {
+            "Q50": ["Q50"]
+        },
+        "Jaguar": {
+            "F-TYPE": ["F-TYPE"]
+        },
+        "Jeep": {
+            "Compass": ["Compass"]
+        },
+        "Kia": {
+            "K5": ["K5"]
+        },
+        "Lamborghini": {
+            "Huracan": ["Huracan"]
+        },
+        "Land Rover": {
+            "Range Rover Sport": ["Range Rover Sport"]
+        },
+        "Lexus": {
+            "LC": ["LC"]
+        },
+        "Lincoln": {
+            "Aviator": ["Aviator"]
+        },
+        "Lotus": {
+            "Evora GT": ["Evora GT"]
+        },
+        "Maserati": {
+            "Ghibli": ["Ghibli"]
+        },
+        "Mazda": {
+            "3": ["3"]
+        },
+        "McLaren": {
+            "570S": ["570S"]
+        },
+        "Mercedes-Benz": {
+            "GLA-Class": ["GLA-Class"]
+        },
+        "MINI": {
+            "Hardtop 2 Door": ["Hardtop 2 Door"]
+        },
+        "Mitsubishi": {
+            "Eclipse Cross": ["Eclipse Cross"]
+        },
+        "Nissan": {
+            "Titan": ["Titan"]
+        },
+        "Polestar": {
+            "2": ["2"]
+        },
+        "Porsche": {
+            "911": ["911"]
+        },
+        "Ram": {
+            "1500": ["1500"]
+        },
+        "Rolls-Royce": {
+            "Cullinan": ["Cullinan"]
+        },
+        "Subaru": {
+            "Impreza": ["Impreza"]
+        },
+        "Tesla": {
+            "Model 3": ["Model 3"]
+        },
+        "Toyota": {
+            "Corolla": ["Corolla"]
+        },
+        "Volkswagen": {
+            "Atlas": ["Atlas"]
+        },
+        "Volvo": {
+            "XC60": ["XC60"]
+        }
+    },
+    "2024": {
+        "Acura": {
+            "Integra": ["Integra"]
+        },
+        "Alfa Romeo": {
+            "Giulia": ["Giulia"]
+        },
+        "Audi": {
+            "A3": ["A3"]
+        },
+        "BMW": {
+            "2 Series": ["2 Series"]
+        },
+        "Buick": {
+            "Enclave": ["Enclave"]
+        },
+        "Cadillac": {
+            "CT4": ["CT4"]
+        },
+        "Chevrolet": {
+            "Trax": ["Trax"]
+        },
+        "Chrysler": {
+            "300": ["300"]
+        },
+        "Dodge": {
+            "Challenger": ["Challenger"]
+        },
+        "FIAT": {
+            "500X": ["500X"]
+        },
+        "Ford": {
+            "Bronco": ["Bronco"]
+        },
+        "Genesis": {
+            "G70": ["G70"]
+        },
+        "GMC": {
+            "Acadia": ["Acadia"]
+        },
+        "Honda": {
+            "Civic": ["Civic"]
+        },
+        "Hyundai": {
+            "Elantra": ["Elantra"]
+        },
+        "INFINITI": {
+            "Q50": ["Q50"]
+        },
+        "Jaguar": {
+            "E-PACE": ["E-PACE"]
+        },
+        "Jeep": {
+            "Compass": ["Compass"]
+        },
+        "Kia": {
+            "Carnival": ["Carnival"]
+        },
+        "Land Rover": {
+            "Defender": ["Defender"]
+        },
+        "Lexus": {
+            "GX": ["GX"]
+        },
+        "Lincoln": {
+            "Aviator": ["Aviator"]
+        },
+        "Mazda": {
+            "3": ["3"]
+        },
+        "McLaren": {
+            "Artura": ["Artura"]
+        },
+        "Mercedes-Benz": {
+            "C-Class": ["C-Class"]
+        },
+        "MINI": {
+            "Clubman": ["Clubman"]
+        },
+        "Mitsubishi": {
+            "Eclipse Cross": ["Eclipse Cross"]
+        },
+        "Nissan": {
+            "Altima": ["Altima"]
+        },
+        "Polestar": {
+            "2": ["2"]
+        },
+        "Porsche": {
+            "911": ["911"]
+        },
+        "Ram": {
+            "Promaster Cargo Van": ["Promaster Cargo Van"]
+        },
+        "Subaru": {
+            "Ascent": ["Ascent"]
+        },
+        "Tesla": {
+            "Model 3": ["Model 3"]
+        },
+        "Toyota": {
+            "4Runner": ["4Runner"]
+        },
+        "Volkswagen": {
+            "Atlas": ["Atlas"]
+        },
+        "Volvo": {
+            "C40 Recharge Twin Pure Electric": ["C40 Recharge Twin Pure Electric"]
+        }
+    }
+}
